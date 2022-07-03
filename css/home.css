@@ -17,6 +17,11 @@ html {
     transform: translate(-50%, -50%);
     z-index: 1;
     cursor: default;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
 }
 
 #titlebar {
@@ -88,7 +93,7 @@ html {
 #buttons {
     padding-left: 13px;
     display: flex;
-    gap: 10px
+    gap: 10px;
 }
 
 #button {
