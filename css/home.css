@@ -116,17 +116,6 @@ html {
     background-color: #c5c5c5;
 }
 
-#blog-body {
-    font-family: monospace;
-    font-size: 11px;
-    width: 100%;
-    height: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    color: #424242;
-    height: 248px;
-}
-
 /* Scrollbars */
 ::-webkit-scrollbar {
     width: 5px;
@@ -147,15 +136,12 @@ html {
     background: #555;
   }
 
-  #archive-body {
-    font-family: monospace;
-    font-size: 13px;
-    width: 100%;
-    height: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    color: #424242;
-    height: 248px;
-    cursor: pointer;
-    text-decoration: none;
+  ul {
+    list-style: none;
+    display: flex;
+
+  }
+
+  table {
+    border-collapse: separate;
   }
