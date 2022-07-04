@@ -7,6 +7,7 @@ This list may not be complete at any time, more features may be required as the 
 ### To-do
 
 - [ ] blog.html
+  - [x] Create blog.html
   - [ ] Investigate third party or self hosting solutions
   - [ ] Generate format for blog entries
   - [ ] Create archive page (Latest entry will appear on-site, archived entries will be listed here and saved as HTML files)
@@ -14,6 +15,7 @@ This list may not be complete at any time, more features may be required as the 
 ### In Progress
 
 - [ ] home.html
+  - [x] Create home.html
   - [x] Create WIMP-like UI (draggable window containing main site content)
   - [ ] Content layout within window
   - [ ] Write "About" column (third person, written like an NPC biography)
